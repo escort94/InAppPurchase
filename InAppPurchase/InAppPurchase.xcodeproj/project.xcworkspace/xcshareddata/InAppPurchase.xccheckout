@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2DA75891-9C7A-4152-8FAE-4794F98A93DC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InAppPurchase</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49076DF2-16C6-48E3-8AAD-A81ACADED67A</key>
+		<string>https://github.com/escort94/InAppPurchase.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InAppPurchase/InAppPurchase.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49076DF2-16C6-48E3-8AAD-A81ACADED67A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/escort94/InAppPurchase.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49076DF2-16C6-48E3-8AAD-A81ACADED67A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49076DF2-16C6-48E3-8AAD-A81ACADED67A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InAppPurchase</string>
+		</dict>
+	</array>
+</dict>
+</plist>
